@@ -1,2 +1,0 @@
-/usr/bin/ar qc libMyA.a  CMakeFiles/MyA.dir/A/index.cpp.o
-/usr/bin/ranlib libMyA.a

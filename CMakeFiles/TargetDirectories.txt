@@ -1,7 +1,0 @@
-/home/sg/mipt/homework/prog_tech/CMake work/CMakeFiles/edit_cache.dir
-/home/sg/mipt/homework/prog_tech/CMake work/CMakeFiles/rebuild_cache.dir
-/home/sg/mipt/homework/prog_tech/CMake work/CMakeFiles/mytest.dir
-/home/sg/mipt/homework/prog_tech/CMake work/CMakeFiles/MyA.dir
-/home/sg/mipt/homework/prog_tech/CMake work/B/CMakeFiles/edit_cache.dir
-/home/sg/mipt/homework/prog_tech/CMake work/B/CMakeFiles/rebuild_cache.dir
-/home/sg/mipt/homework/prog_tech/CMake work/B/CMakeFiles/MyB.dir

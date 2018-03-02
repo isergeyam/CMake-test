@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/test.dir/C/main.cpp.o  -o bin/test -rdynamic -lA/libMyA.a -lB/libMyB.a 
